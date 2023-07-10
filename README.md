@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Ventura</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🔭 Actualmente estoy trabajando en [BookMaster](https://github.com/4GeeksAcademy/BookMaster)
 
